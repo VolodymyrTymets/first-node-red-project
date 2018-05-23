@@ -1,0 +1,12 @@
+{
+    "name": "first-node-red-project-1",
+    "description": "A Node-RED Project",
+    "version": "0.0.1",
+    "dependencies": {},
+    "node-red": {
+        "settings": {
+            "flowFile": "first_flow.local.json",
+            "credentialsFile": "first_flow.local_cred.json"
+        }
+    }
+}
